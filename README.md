@@ -2,9 +2,12 @@
 
 During my robotics capstone at Texas A&M, my team and I were tasked to develop a subsea remotely operated vehicle (ROV). I led the CAD design and simulation work using SolidWorks, using the equations tool in SolidWorks to rapidly redesign the product based on the evolving client specifications. Each iteration of the design was simulated using SolidWorks' finite element analysis and hydrodynamics simulations to test the model's structural integrity and performance underwater. Once the core of the ROV's design was finalized, the team transitioned to fabricating the prototype to physically simulate the design in the real world. Even then, we continued making daily adjustments to the design improving strength, buoyancy, and hydrodynamics, which meant the physical model had to be altered to match the newer SolidWorks designs. Working in that rapidly iterative environment — constantly shifting between digital modeling and hands-on validation — taught me how to move quickly, troubleshoot effectively, and stay adaptable to the specifications of the design.
 
-The folder CAD Models includes all the CAD models that were used to create the design for the ROV structure and propulsion system.<br />
+The folder CAD Models includes all the CAD models that were used to create the design for the ROV structure and propulsion system.
+
 The folder Images-Videos includes a lot of the pictures and videos throughout the project.
 
-SubseaROV_DOF-Animation.gif shows the CAD design and range of motion of the thrusters for the subsea ROV.<br />
-SubseaROV_Mid-Report.docx shows the mid-semester report for our capstone team, after the design was determined, but before the design was fabricated.<br />
+SubseaROV_DOF-Animation.gif shows the CAD design and range of motion of the thrusters for the subsea ROV. Each thruster has independent rotation controls and thrust controls allowing for full 6 degrees of freedom.
+
+SubseaROV_Mid-Report.docx shows the mid-semester report for our capstone team, after the design was determined, but before the design was fabricated.
+
 SubseaROV_Final-Report.docx shows the end of semester report for our capstone team. Unfortunately, both of the reports are too big to be viewed on GitHub, and must be downloaded.
