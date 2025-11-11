@@ -1,1 +1,4 @@
-# Subsea-ROV
+# Subsea ROV
+
+During my robotics capstone at Texas A&M, my team and I were tasked to develop a subsea remotely operated vehicle (ROV). I led the CAD design and simulation work using SolidWorks, using the equations tool in SolidWorks to rapidly redesign the product based on the evolving client specifications. Each iteration of the design was simulated using SolidWorks' finite element analysis and hydrodynamics simulations to test the model's structural integrity and performance underwater. Once the core of the ROV's design was finalized, the team transitioned to fabricating the prototype to physically simulate the design in the real world. Even then, we continued making daily adjustments to the design improving strength, buoyancy, and hydrodynamics, which meant the physical model had to be altered to match the newer SolidWorks designs. Working in that rapidly iterative environment — constantly shifting between digital modeling and hands-on validation — taught me how to move quickly, troubleshoot effectively, and stay adaptable to the specifications of the design.
+
