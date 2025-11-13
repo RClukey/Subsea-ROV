@@ -8,6 +8,6 @@ The folder Images-Videos includes a lot of the pictures and videos throughout th
 
 SubseaROV_DOF-Animation.gif shows the CAD design and range of motion of the thrusters for the subsea ROV. Each thruster has independent rotation controls and thrust controls allowing for full 6 degrees of freedom.
 
-SubseaROV_Mid-Report.docx shows the mid-semester report for our capstone team, after the design was determined, but before the design was fabricated.
+SubseaROV_Mid-Report.pdf shows the mid-semester report for our capstone team, after the design was determined, but before the design was fabricated.
 
-SubseaROV_Final-Report.docx shows the end of semester report for our capstone team. Unfortunately, both of the reports are too big to be viewed on GitHub, and must be downloaded.
+SubseaROV_Final-Report.pdf shows the end of semester report for our capstone team, after the design was fabricated and tested.
